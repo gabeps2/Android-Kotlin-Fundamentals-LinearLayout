@@ -2,11 +2,8 @@
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: center;">
 
-<img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp.png?raw=true" width="216" height="384">
-<img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp2.png?raw=true" width="216" height="384">
-
-![]( =192x180)
-![](https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp2.png?raw=true =192x180)
+<img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp.png?raw=true" width="270" height="480">
+<img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp2.png?raw=true" width="270" height="480">
 
 # Summary
 
