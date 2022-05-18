@@ -1,7 +1,7 @@
 # Android-Kotlin-Fundamentals-LinearLayout
 
-![](https://github.com/gabeps2/DiceRollerApp/blob/master/repo-images/AboutMeApp.png?raw=true)
-![](https://github.com/gabeps2/DiceRollerApp/blob/master/repo-images/AboutMeApp2.png?raw=true)
+![](https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp.png?raw=true)
+![](https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp2.png?raw=true)
 
 # Summary
 
