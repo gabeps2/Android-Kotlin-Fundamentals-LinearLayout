@@ -1,6 +1,6 @@
 # Android-Kotlin-Fundamentals-LinearLayout
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="width: 100%; display: flex; align-items: center; justify-content: center;">
 
 <img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp.png?raw=true" width="216" height="384">
 <img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp2.png?raw=true" width="216" height="384">
