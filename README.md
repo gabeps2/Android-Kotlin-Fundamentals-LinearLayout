@@ -1,6 +1,9 @@
 # Android-Kotlin-Fundamentals-LinearLayout
 
-![](https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp.png?raw=true =192x180)
+<img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp.png?raw=true" width="192" height="180">
+<img src="https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp2.png?raw=true" width="192" height="180">
+
+![]( =192x180)
 ![](https://github.com/gabeps2/Android-Kotlin-Fundamentals-LinearLayout/blob/master/repo-images/AboutMeApp2.png?raw=true =192x180)
 
 # Summary
