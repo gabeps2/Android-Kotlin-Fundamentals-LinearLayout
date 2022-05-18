@@ -1,5 +1,8 @@
 # Android-Kotlin-Fundamentals-LinearLayout
 
+![](https://github.com/gabeps2/DiceRollerApp/blob/master/repo-images/AboutMeApp.png?raw=true)
+![](https://github.com/gabeps2/DiceRollerApp/blob/master/repo-images/AboutMeApp2.png?raw=true)
+
 # Summary
 
 * A ViewGroup is a view that can contain other views. LinearLayout and ScrollView are view groups.
